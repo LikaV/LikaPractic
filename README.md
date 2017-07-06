@@ -1,3 +1,0 @@
-# LikaPractic
-
-README.md
